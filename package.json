@@ -3,12 +3,19 @@
   "version": "1.0.2",
   "description": "Removes all spaces from a string",
   "license": "MIT",
-  "repository": "dejanbetos/test",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dejanbetos/test.git"
+  },
   "main": "index.js",
   "keywords": [
     "test",
     "npm",
     "package",
     "dejanbetos"
-  ]
+  ],
+  "bugs": {
+    "url": "https://github.com/dejanbetos/test/issues"
+  },
+  "homepage": "https://github.com/dejanbetos/test#readme"
 }
