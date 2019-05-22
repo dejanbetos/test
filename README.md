@@ -20,7 +20,7 @@ test("So much space!");
 //=> "Somuchspace!"
 
 test(1337);
-//=> Uncaught TypeError: Tiny wants a string!
+//=> Uncaught TypeError: Test wants a string!
 //    at tiny (<anonymous>:2:41)
 //    at <anonymous>:1:1
 ```
